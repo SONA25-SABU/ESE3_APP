@@ -30,3 +30,8 @@ st.pyplot(fig_scatter)
 # Run the app
 if __name__ == "__Main__":
     main()
+# git init
+# git add .
+# git commit -m "Your commit message here"
+# git push --set-upstream origin master
+# git push
